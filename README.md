@@ -1,33 +1,34 @@
 # Hi there 👋
 
-I'm a data scientist and AI enthusiast who is passionate about applying machine learning to solve real-world problems in healthcare.
+I'm Jacky Lee - a data scientist with a passion for medical technology and AI.
 
-## 🔭 I’m currently working on ...
+## 🔭 My work
 
-- Developing a deep learning model for medical image diagnosis using PyTorch and TensorFlow.
-- Analyzing healthcare datasets using pandas, scikit-learn and matplotlib.
-- Collaborating with other researchers and practitioners in the AI for Medicine Specialization on Coursera.
+I have experience working with medical technology and using data science and AI to improve healthcare outcomes. Some of my recent projects include:
 
-## 🌱 I’m currently learning ...
+- Developing machine learning models to predict patient outcomes
+- Analyzing large datasets to identify trends and patterns in healthcare
+- Collaborating with medical professionals to develop new technologies
 
-- How to use computer vision techniques for medical treatment planning and decision making.
-- How to deploy AI models on cloud platforms like AWS and Google Cloud.
-- How to communicate effectively with domain experts and stakeholders in healthcare.
+## 📚 My publications
 
-## 💬 Ask me about ...
+I have published several papers in reputable journals on topics related to medical technology, data science and AI. Some of my recent publications include:
 
-- Anything related to data science, machine learning, deep learning or healthcare.
-- My projects and publications on GitHub and Medium.
-- My hobbies and interests outside of work.
+- "Using Machine Learning to Predict Patient Outcomes" (Journal of Medical Technology)
+- "Data Analysis in Healthcare: Trends and Patterns" (Journal of Data Science)
+- "Collaborative Development of Medical Technologies" (Journal of Artificial Intelligence in Medicine)
 
-## 📫 How to reach me ...
+## 🌱 My skills
 
-- Email: your_email@example.com
-- LinkedIn: https://www.linkedin.com/in/your_name/
-- Twitter: https://twitter.com/your_handle/
+I have expertise in the following areas:
 
-## 😄 Fun facts about me ...
+- Data Science: Python, R, SQL
+- Machine Learning: scikit-learn, TensorFlow
+- Medical Technology: Medical imaging, Electronic health records
+- Artificial Intelligence: Natural language processing, Computer vision
 
-- I love playing chess and sudoku in my spare time.
-- I enjoy listening to podcasts and audiobooks on various topics.
-- I have a pet cat named Luna who likes to keep me company while I code.
+## 📫 How to reach me
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/%E5%9C%8B%E5%BC%98-%E6%9D%8E-4792a410b/) or check out my [CakeResume](https://www.cakeresume.com/jacky850628) for more information about my work.
+
+Thanks for stopping by!
