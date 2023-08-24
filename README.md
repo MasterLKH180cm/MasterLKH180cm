@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jacky Lee - a data scientist with a passion for medical technology and AI.
+I'm Jacky Lee - a data scientist with a passion for medical technology and AI and a software engineer of full stack development.
 
 ## 🔭 My work
 
@@ -14,18 +14,21 @@ I have experience working with medical technology and using data science and AI 
 
 I have published several papers in reputable journals on topics related to medical technology, data science and AI. Some of my recent publications include:
 
-- "Using Machine Learning to Predict Patient Outcomes" (Journal of Medical Technology)
-- "Data Analysis in Healthcare: Trends and Patterns" (Journal of Data Science)
-- "Collaborative Development of Medical Technologies" (Journal of Artificial Intelligence in Medicine)
+- "ACUTE EXACERBATION OF A CHRONIC OBSTRUCTIVE PULMONARY DISEASE PREDICTION SYSTEM USING WEARABLE DEVICE DATA, MACHINE LEARNING, AND DEEP LEARNING: DEVELOPMENT AND COHORT STUDY" (JMIR mHealth and uHealth (SCI, IF=4.31) / Accept)
+- "DEEPDRG: PERFORMANCE OF ARTIFICIAL INTELLIGENCE MODEL FOR REAL-TIME PREDICTION OF DIAGNOSIS-RELATED GROUPS" (Healthcare (SCI, IF=2.65) / Accept)
+- "PREDICTING POSTOPERATIVE MORTALITY WITH DEEP NEURAL NETWORKS AND NATURAL LANGUAGE PROCESSING: MODEL DEVELOPMENT AND VALIDATION" (JMIR Med Inform (SCI, IF=3.23)/ Accept)
 
 ## 🌱 My skills
 
 I have expertise in the following areas:
 
-- Data Science: Python, R, SQL
-- Machine Learning: scikit-learn, TensorFlow
+- Data Science: Python, SQL
+- Machine Learning: scikit-learn, Pytorch
 - Medical Technology: Medical imaging, Electronic health records
 - Artificial Intelligence: Natural language processing, Computer vision
+- Frontend: React, HTML, CSS, Javascript
+- Backend: Django, Flask, Node
+- Current work: Golang
 
 ## 📫 How to reach me
 
